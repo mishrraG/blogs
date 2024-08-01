@@ -1,1 +1,9 @@
-theme: minima
+# Site settings
+title: Mishraji Talks
+author:
+  name: Arpit Mishra
+  email: arpitmishra4779@gmail.com
+description: "Gyaan"
+
+# Build settings
+remote_theme: jekyll/minima
