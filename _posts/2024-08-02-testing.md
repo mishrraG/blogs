@@ -1,31 +1,28 @@
 ---
 layout: post
-title: My First Jekyll Post
-tags: first markdown example
+title: Next Steps
+tags: second markdown example
 categories: demo
 ---
 
-This is a paragraph in my first post.
-Show off your Markdown!
+This is a paragraph in my second post.
+In Markdown, adding an image looks similar to a link. 
 
-## Heading Two 
+![alt text is white cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png)
 
-Any text with no empty lines between will become a paragraph.
-Leave an blank line between headings and paragraphs.
-Font can be *Italic* or **Bold**.
-Code can be highlighted with `backticks`.
+I found this [Cat image on Wikimedia](https://commons.wikimedia.org/wiki/File:VAN_CAT.png).
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
+Horizontal rule:
 
-A bullet list is created using `*`, `+`, or `-`, like:
+--------------
 
-- dog
-- cat
-- muffin
+> A block quote.
+> Is like this.
 
-A numbered list is created using a number + `.`, like:
+A table:
 
-1. one
-2. two
-6. three
-2. four
+| header | column a | column b |
+| --- | --- | --- |
+| dogs | 3 | 6 |
+| cats | 3 | 6 |
+| muffins | 15 | 30 |
